@@ -1,14 +1,12 @@
 {
-    "name": "ProductsAPI",
-    "version": "0.0.2",
-    "main": "server",
+    "name": "hapi-example",
+    "version": "0.0.0",
+    "main": "index.js",
     "engines": {
         "node": ">=0.10.5"
     },
     "dependencies": {
-        "hapi": "1.8.x",
-        "lout": "0.4.x",
-        "handlebars": "1.0.x"
+        "hapi": "1.8.x"
     },
     "private": "true"
 }
